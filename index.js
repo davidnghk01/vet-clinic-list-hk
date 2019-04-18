@@ -49,7 +49,6 @@ function processText(texts, pageNum) {
     let {x} = text
     x = precise(x)
     const content = text.R.map((r) => decodeURIComponent(r.T)).join("")
-    let currentColumn = 1
     switch (x) {
       case 3.011:
       case 3.018:
@@ -80,9 +79,7 @@ function processText(texts, pageNum) {
         break
       default:
         break
-    }
-      
-    previousColumn = currentColumn
+    }      
   }
   return results.slice(1)
 }
