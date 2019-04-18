@@ -1,0 +1,788 @@
+[
+    {
+        "name": "鰂魚涌寵物診所 / Quarry Bay Veterinary Clinic",
+        "district": "港島東區 Hong Kong East",
+        "address": "香港鰂魚涌英皇道1048號益發大廈20A地下 / G/F, Yick Fat Building, 1048 King's Road, Quarry Bay, HK",
+        "contact": "2809 2618"
+    },
+    {
+        "name": "梟史丹尼獸醫診所 / Dr. Hugh's Veterinary Hospital",
+        "district": "港島東區 Hong Kong East",
+        "address": "香港銅鑼灣永興街2號A / 2A Wing Hing Street, Tin Hau, HK",
+        "contact": "2380 0612"
+    },
+    {
+        "name": "中央動物醫院 / Central Animal Hospital",
+        "district": "港島東區 Hong Kong East",
+        "address": "香港銅鑼灣興發街100號地下 / G/F, 100 Hing Fat Street, Causeway Bay, HK",
+        "contact": "2508 1083"
+    },
+    {
+        "name": "順心動物診所 / Happy Pets Veterinary Centre",
+        "district": "港島東區 Hong Kong East",
+        "address": "香港銅鑼灣道64號 / 64 Tung Lo Wan Road, Tai Hang, HK",
+        "contact": "2895 6811 / 2895 6211"
+    },
+    {
+        "name": "動物王國醫院 / Animal Kingdom Veterinary Hospital",
+        "district": "港島東區 Hong Kong East",
+        "address": "香港銅鑼灣威菲路道25至27號佳景大廈 2-3 號舖 / Shop 2-3 Belle House, 25-27 Whitfield Road, Causeway Bay, HK",
+        "contact": "2578 0321"
+    },
+    {
+        "name": "銅鑼灣動物醫院 / Causeway Bay Animal Hospital",
+        "district": "港島東區 Hong Kong East",
+        "address": "香港銅鑼灣威非路道29號 / 29 Whitfield Road, Causeway Bay, HK",
+        "contact": "2510 0836"
+    },
+    {
+        "name": "選擇獸醫診所 / Choice Veterinary Clinic",
+        "district": "港島東區 Hong Kong East",
+        "address": "香港筲箕灣新成街5-7號6樓7號鋪 / Shop 7, 6/F, 5-7 Sun Sing Street, Shau Kei Wan, HK",
+        "contact": "2967 1896"
+    },
+    {
+        "name": "動物緊急醫療中心 / Animal Emergency Centre",
+        "district": "港島東區 Hong Kong East",
+        "address": "香港筲箕灣道256號地下 / G/F, 256 Shau Kei Wan Road, HK",
+        "contact": "2915 3999"
+    },
+    {
+        "name": "Creature Comforts Veterinary Housecall Practice",
+        "district": "港島東區 Hong Kong East",
+        "address": "香港筲箕灣道256號地下 / G/F, 256 Shau Kei Wan Road, HK",
+        "contact": "9773 0372"
+    },
+    {
+        "name": "東區動物醫院 / East Island Animal Hospital",
+        "district": "港島東區 Hong Kong East",
+        "address": "香港筲箕灣道256號地下 / G/F, 256 Shau Kei Wan Road, HK",
+        "contact": "2915 3999"
+    },
+    {
+        "name": "健河動物醫院 / The Sanctuary Animal Hospital",
+        "district": "港島東區 Hong Kong East",
+        "address": "香港西灣河筲箕灣道56號地下 / G/F, 56 Shau Kei Wan Road, Sai Wan Ho, HK",
+        "contact": "2560 2721"
+    },
+    {
+        "name": "Pets Central 北角動物醫院 / Pets Central North Point Hospital",
+        "district": "港島東區 Hong Kong East",
+        "address": "香港北角渣華道66號地下 / G/F, 66 Java Road, North Point, HK",
+        "contact": "2811 8907"
+    },
+    {
+        "name": "長康動物醫院 / Cosmo Pet Service Centre and Animal Hospital",
+        "district": "港島東區 Hong Kong East",
+        "address": "香港北角堡壘街38號地下 / G/F, 38 Fort Street, North Point, HK",
+        "contact": "2530 0101"
+    },
+    {
+        "name": "北角動物醫院 / North Point Animal Hospital",
+        "district": "港島東區 Hong Kong East",
+        "address": "香港北角建華街19號福華洋樓地下 / G/F, Fok Wa Mansion, 19 Kin Wah Street, North Point, HK",
+        "contact": "2307 6622"
+    },
+    {
+        "name": "非牟利獸醫診所 / (NPV) Non-Profit Making Veterinary Clinic",
+        "district": "港島東區 Hong Kong East",
+        "address": "香港北角和富道116號康華大廈地下C2舖 / Shop C2, G/F, Conwell Mansion, 116 Wharf Road, North Point, HK",
+        "contact": "2393 2070 / 3707 1360"
+    },
+    {
+        "name": "星寵動物醫院 / Zodiac Pet and Exotic Hospital",
+        "district": "港島東區 Hong Kong East",
+        "address": "香港天后歌頓道4號地下 / G/F, 4 Gordon Road, Tin Hau, HK",
+        "contact": "2527 1718"
+    },
+    {
+        "name": "天后寵物醫院 / Tin Hau Pet Hospital",
+        "district": "港島東區 Hong Kong East",
+        "address": "香港天后英皇道41號維順閣B鋪地下 / Shop B, G/F, Wilson Count, 41 King's Road, Tin Hau, HK",
+        "contact": "2104 2000"
+    },
+    {
+        "name": "夏利維動物醫院 / Companion Care Limited, Chris & Nicola's Animal",
+        "district": "港島東區 Hong Kong East",
+        "address": "香港天后永興街37號地下 / G/F, 37 Wing Hing Street, Tin Hau, HK",
+        "contact": "2570 6048"
+    },
+    {
+        "name": "大坑動物診所 / Tai Hang Veterinary Clinic",
+        "district": "港島東區 Hong Kong East",
+        "address": "香港大坑浣紗街1-5號浣紗閣2號鋪地下 / G/F, Shop 2, Wun Sha Court, 1-5 Wun Sha Street, Tai Hang, HK",
+        "contact": "2577 5755"
+    },
+    {
+        "name": "南區獸醫中心 / Southern District Veterinary Centre",
+        "district": "港島中西及南區 Hong Kong Central, West and South",
+        "address": "香港鴨脷洲大街165-167號樂景大廈地下A1-A2舖 / Shop A1-A2, G/F, Happy View Building, 165-167 Ap Lei Chau Main Street, HK",
+        "contact": "2805 1318 / 2805 1328"
+    },
+    {
+        "name": "愛生動物診所 / Happy Life Animal Clinic",
+        "district": "港島中西及南區 Hong Kong Central, West and South",
+        "address": "香港堅尼地城吉席街63號嘉富大廈地下2號舖 / Shop 2, G/F, Ka Fu Building, 63 Catchick Street, Kennedy Town, HK",
+        "contact": "2818 2333"
+    },
+    {
+        "name": "柏雅動物診所 / Praya Animal Clinic",
+        "district": "港島中西及南區 Hong Kong Central, West and South",
+        "address": "香港堅尼地城吉席街9-15號吉利樓地下D舖 / Flat D, G/F, Kelly Court, 9-15 Catchick Street, Kennedy Town, HK",
+        "contact": "3461 9126"
+    },
+    {
+        "name": "南區動物診所 / Southern Animal Clinic",
+        "district": "港島中西及南區 Hong Kong Central, West and South",
+        "address": "香港香港仔大道223-227號利群商場地下4號舖 / Shop 4, G/F, ABBA Centre, 223-227 Aberdeen Main Road, HK",
+        "contact": "28895238 / 28895938 / 2889 5999"
+    },
+    {
+        "name": "西區獸醫診所 / Queenwest Veterinary Clinic",
+        "district": "港島中西及南區 Hong Kong Central, West and South",
+        "address": "香港皇后大道西303號地下 / G/F, 303 Queen's Road West, HK",
+        "contact": "2858 2211"
+    },
+    {
+        "name": "赤柱寵物診所 / Stanley Veterinary Centre",
+        "district": "港島中西及南區 Hong Kong Central, West and South",
+        "address": "香港赤柱黃麻角道10至12號地庫 / LG/F, 10-12 Wong Ma Kok Road, Stanley, HK",
+        "contact": "2813 2030"
+    },
+    {
+        "name": "愛心寵物醫院(針灸保健及治療) / Joyful Pet Veterinary Hospital",
+        "district": "港島中西及南區 Hong Kong Central, West and South",
+        "address": "香港西環北街昌裕大廈13號地下 / G/F, Cheong Yue Mansions, 13 North Street, Sai Wan, HK",
+        "contact": "2891 2011"
+    },
+    {
+        "name": "研康獸醫診所 / Biorecovery Veterinary Clinic",
+        "district": "港島中西及南區 Hong Kong Central, West and South",
+        "address": "香港西營盤第三街192號地下1號舖 / Shop 1, G/F, 192 Third Street, Sai Ying Pun, HK",
+        "contact": "2915 2095"
+    },
+    {
+        "name": "雅各動物醫院 / Acorn Veterinary Hospital",
+        "district": "港島中西及南區 Hong Kong Central, West and South",
+        "address": "香港西營盤第二街68-80號地下 / G/F, 68-80 Second Street, Sai Ying Pun, HK",
+        "contact": "2540 0228"
+    },
+    {
+        "name": "方舟動物醫院 / The Ark Veterinary Hospital",
+        "district": "港島中西及南區 Hong Kong Central, West and South",
+        "address": "香港西營盤水街25-35號樂新大廈1樓及地下1 號舖 / Shop 1 G/F, 25-35A Water Street, Sai Ying Pun, HK",
+        "contact": "2549 2330"
+    },
+    {
+        "name": "港島珍禽異獸 / Island Exotics",
+        "district": "港島中西及南區 Hong Kong Central, West and South",
+        "address": "香港西營盤干諾道西139-140號興泰大厦2樓 / 2/F Hing Tai Building, 139-140 Connaught Road West, Sai Ying Pun, HK",
+        "contact": "2858 9388"
+    },
+    {
+        "name": "半山獸醫中心 / Mid Levels Veterinary Centre",
+        "district": "港島中西及南區 Hong Kong Central, West and South",
+        "address": "香港半山摩羅廟街28號地下 / G/F, 28 Mosque Street, Mid-Levels, HK",
+        "contact": "2140 6581"
+    },
+    {
+        "name": "蘇利宜動物醫院 / Four Paws Animal Hospital",
+        "district": "港島中西及南區 Hong Kong Central, West and South",
+        "address": "香港中環半山堅道130號堅威大廈地下B鋪 / Shop B, G/F, Caineway Mansion, 130, Caine Road, Mid-levels, Central, HK",
+        "contact": "2291 0065"
+    },
+    {
+        "name": "香港貓醫院 / Nine Lives The Cat Hospital",
+        "district": "港島中西及南區 Hong Kong Central, West and South",
+        "address": "香港中環鴨巴甸街37號地下 / G/F 37 Aberdeen Street, Central, HK",
+        "contact": "2975 8228"
+    },
+    {
+        "name": "愛護動物協會 (灣仔總部) / SPCA (Wanchai Headquarters)",
+        "district": "灣仔區 Wan Chai District",
+        "address": "香港灣仔運盛街5號 / 5 Wan Shing Street, Wan Chai, HK",
+        "contact": "2802 0501"
+    },
+    {
+        "name": "專科獸醫醫院 / Veterinary Specialty Hospital",
+        "district": "灣仔區 Wan Chai District",
+        "address": "香港灣仔灣仔道165-171號樂基中心1樓 / 1/F, Lucky Centre, 165-171 Wanchai Road, Wan Chai, HK",
+        "contact": "2408 2588"
+    },
+    {
+        "name": "香港獸醫中心 / Hong Kong Veterinary Centre",
+        "district": "灣仔區 Wan Chai District",
+        "address": "香港灣仔堅尼地街12-12A號地下 / G/F, 12-12A Kennedy Street, Wan Chai, HK",
+        "contact": "2520 2373"
+    },
+    {
+        "name": "灣仔獸醫診所 / Wanchai Animal Clinic",
+        "district": "灣仔區 Wan Chai District",
+        "address": "香港灣仔交加里7號永成大廈地下及地庫 / G/F & B/F, Wing Shing Mansion, 7 Cross Lane, Wan Chai, HK",
+        "contact": "2572 5422"
+    },
+    {
+        "name": "皇后大道東獸醫診所 / Phoenix Animal Clinic",
+        "district": "灣仔區 Wan Chai District",
+        "address": "香港灣仔月街1-3號C鋪 / Shop C, 1-3 Moon Street, Wan Chai, HK",
+        "contact": "2865 4320"
+    },
+    {
+        "name": "快活谷獸醫中心 / Valley Veterinary Centre",
+        "district": "灣仔區 Wan Chai District",
+        "address": "香港跑馬地源遠街15號地下 / G/F, 15 Yuen Yuen Street, Happy Valley, HK",
+        "contact": "2575 2389"
+    },
+    {
+        "name": "明慧獸醫診所 / Health Care Veterinary Clinic",
+        "district": "灣仔區 Wan Chai District",
+        "address": "香港跑馬地晉源街7號晉寶大廈地下B鋪 / Shop B, G/F, Silverstone Mansion, 7 Tsun Yuen Street, Happy Valley, HK",
+        "contact": "2833 5931"
+    },
+    {
+        "name": "跑馬地獸醫診所及醫院 / Happy Valley Veterinary Clinic & Hospital",
+        "district": "灣仔區 Wan Chai District",
+        "address": "香港跑馬地昌明街6號地下 / G/F, 6 Cheong Ming Street, Happy Valley, HK",
+        "contact": "2572 0977"
+    },
+    {
+        "name": "黎昌生獸醫診所 / Dr Eric's Animal Clinic",
+        "district": "灣仔區 Wan Chai District",
+        "address": "香港跑馬地山光道1A意盧小築地下B鋪(面向奕蔭街) / Portion B, G/F, Igloo Residence, 1A Shan Kwong Road, Happy Valley, HK",
+        "contact": "2893 2988"
+    },
+    {
+        "name": "寵心動物診所 / iVet Animal Clinic",
+        "district": "九龍城區 Kowloon City District",
+        "address": "九龍紅磡蕪湖街50號地舖 / G/F, 50 Wuhu Street, Hung Hom, Kln",
+        "contact": "2877 6780"
+    },
+    {
+        "name": "栢衛獸醫診所 / Petwise Veterinary Clinic",
+        "district": "九龍城區 Kowloon City District",
+        "address": "Hung Hom, Kln",
+        "contact": "2334 3538"
+    },
+    {
+        "name": "紅磡獸醫診所 / Hung Hom Veterinary Clinic",
+        "district": "九龍城區 Kowloon City District",
+        "address": "九龍紅磡黃埔新村民泰街30號地下 / G/F, 30 Man Tai Street, Whampoa Estate, Hung Hom, Kln",
+        "contact": "2330 7566"
+    },
+    {
+        "name": "小小動物診所 / Companion Animal Clinic",
+        "district": "九龍城區 Kowloon City District",
+        "address": "九龍紅磡山谷道10號地下4鋪 / Shop 4, G/F, 10 Valley Road, Hung Hom, Kln",
+        "contact": "2761 1281"
+    },
+    {
+        "name": "旺角動物診所 / Mongkok Animal Clinic",
+        "district": "九龍城區 Kowloon City District",
+        "address": "九龍何文田窩打老道66號A地下 / G/F, 66A, Waterloo Road, Ho Man Tin, Kln",
+        "contact": "2760 1026"
+    },
+    {
+        "name": "梭椏道寵物診所 / Soares Avenue Paws & Claws Clinic",
+        "district": "九龍城區 Kowloon City District",
+        "address": "九龍何文田梭椏道29-33號地下 / G/F, 29-33 Soares Avenue, Ho Man Tin, Kln",
+        "contact": "2760 9663"
+    },
+    {
+        "name": "何文田動物診所 / Ho Man Tin Animal Clinic",
+        "district": "九龍城區 Kowloon City District",
+        "address": "九龍何文田梭椏道27號地庫 / B/F, 27 Soares Avenue, Ho Man Tin, Kln",
+        "contact": "2768 9318"
+    },
+    {
+        "name": "香港獸醫診所 / Hong Kong Veterinary Clinic",
+        "district": "九龍城區 Kowloon City District",
+        "address": "九龍何文田梭椏道23號B地下 / G/F, 23B, Soares Avenue, Ho Man Tin, Kln",
+        "contact": "2762 9712"
+    },
+    {
+        "name": "港九寵物醫院 / The Hong Kong & Kowloon Pet Hospital",
+        "district": "九龍城區 Kowloon City District",
+        "address": "九龍何文田梭椏道13號地下 / G/F, 13 Soares Avenue, Ho Man Tin, Kln",
+        "contact": "2712 2918"
+    },
+    {
+        "name": "仁安獸醫診所 / Comfort Veterinary Clinic",
+        "district": "九龍城區 Kowloon City District",
+        "address": "九龍何文田自由道9號地下 / G/F, 9 Liberty Avenue, Ho Man Tin, Kln",
+        "contact": "2712 0772"
+    },
+    {
+        "name": "思恩獸醫診所 / Centaur Veterinary Clinic",
+        "district": "九龍城區 Kowloon City District",
+        "address": "九龍何文田自由道1號C鋪 / Shop C, 1 Liberty Avenue, Ho Man Tin, Kln",
+        "contact": "2713 8950"
+    },
+    {
+        "name": "愛護動物協會 (九龍中心) / SPCA (Kowloon Centre)",
+        "district": "九龍城區 Kowloon City District",
+        "address": "九龍何文田公主道105號 / 105 Princess Margaret Road, Ho Man Tin, Kln",
+        "contact": "2713 9104"
+    },
+    {
+        "name": "城大太平道動物診所 / CityU PAVC",
+        "district": "九龍城區 Kowloon City District",
+        "address": "九龍何文田自由道7A地下，7B地下連1樓 / Shop A G/F, Shop B & 1/F, 7 Liberty Avenue, Ho Man Tin, Kln",
+        "contact": "3650 3000"
+    },
+    {
+        "name": "柏得康獸醫診所 / Pet Health Veterinary Clinic",
+        "district": "九龍城區 Kowloon City District",
+        "address": "Chung Road, To Kwa Wan, Kln",
+        "contact": "2711 2028"
+    },
+    {
+        "name": "PPC動物診所 / Precious Pet Clinic",
+        "district": "九龍城區 Kowloon City District",
+        "address": "九龍土瓜灣美景街87號昌景閣地下 / G/F, Chong Chien Court, 87 Mei King Street, To Kwa Wan, Kln",
+        "contact": "2885 2389"
+    },
+    {
+        "name": "土瓜灣動物醫院 / Faithful Veterinary Hospital",
+        "district": "九龍城區 Kowloon City District",
+        "address": "九龍土瓜灣北帝街139號地舖 / G/F, 139 Pak Tai Street, To Kwa Wan, Kln",
+        "contact": "2711 9909"
+    },
+    {
+        "name": "九龍城中央動物醫院 / Kowloon City Central Animal Hospital",
+        "district": "九龍城區 Kowloon City District",
+        "address": "九龍九龍城獅子石道6號地下 / G/F No.6 Lion Rock Road, Kowloon City, Kln",
+        "contact": "2811 1160"
+    },
+    {
+        "name": "九龍動物醫院 / Kowloon Veterinary Hospital",
+        "district": "九龍城區 Kowloon City District",
+        "address": "九龍九龍城啟德道50號地下 / 50 Kai Tak Road, Kowloon City, Kln",
+        "contact": "2382 3300"
+    },
+    {
+        "name": "柏域獸醫診所 / Pet' n Vet Clinic",
+        "district": "九龍城區 Kowloon City District",
+        "address": "九龍九龍城城南道32號地下 / G/F, 32 Shing Nam Road, Kowloon City, Kln",
+        "contact": "2382 0228"
+    },
+    {
+        "name": "摯愛動物醫院 / Essence Veterinary Hospital",
+        "district": "九龍城區 Kowloon City District",
+        "address": "九龍九龍城打鼓嶺道56號地下 / G/F, 56 Tak Ku Ling Road, Kowloon City, Kln",
+        "contact": "2382 3113"
+    },
+    {
+        "name": "CEAA新蒲崗動物醫院 / CEAA San Po Kong Animal Hospital",
+        "district": "黃大仙區 Wong Tai Sin District",
+        "address": "九龍新蒲崗景福街77號地下 / G/F, No. 77 King Fuk Street, San Po Kong, Kln",
+        "contact": "2420 2266"
+    },
+    {
+        "name": "上門獸醫服務 / Pulsevet Veterinary Centre",
+        "district": "深水埗區 Sham Shui Po District",
+        "address": "九龍深水埗鴨寮街24號地下 / G/F, 24 Apliu Street, Sham Shui Po, Kln",
+        "contact": "2779 2722"
+    },
+    {
+        "name": "希樂動物診所 / Healer Animal Clinic",
+        "district": "深水埗區 Sham Shui Po District",
+        "address": "九龍深水埗鴨寮街17號地下 / G/F, 17 Apliu Street, Sham Shui Po, Kln",
+        "contact": "2397 0800"
+    },
+    {
+        "name": "楓樹寵物醫院 / Maple Veterinary Hospital",
+        "district": "深水埗區 Sham Shui Po District",
+        "address": "九龍深水埗楓樹街9-13號華楓樓地下 / G/F, Maple Mansion, 9-13 Maple Street, Sham Shui Po, Kln",
+        "contact": "3576 3288"
+    },
+    {
+        "name": "楓樹珍禽異獸醫院 / Maple Exotic Veterinary Hospital",
+        "district": "深水埗區 Sham Shui Po District",
+        "address": "九龍深水埗楓樹街9-13號1樓 / 1/F, 9-13 Maple Street, Sham Shui Po, Kln",
+        "contact": "3579 4838"
+    },
+    {
+        "name": "雅發動物診所 / Alpha Vet Clinic",
+        "district": "深水埗區 Sham Shui Po District",
+        "address": "九龍深水埗欽州街65號榮業商業大廈4樓4室 / Room 4, 4/F, Wing Yip Commercial Building, 65 Yen Chow Street, Sham Shui Po, Kln",
+        "contact": "2708 8973"
+    },
+    {
+        "name": "嘉名動物診所 / K M Animal Clinic",
+        "district": "深水埗區 Sham Shui Po District",
+        "address": "九龍深水埗石硤尾街10號地下 / G/F, 10 Shek Kip Mei Street, Sham Shui Po, Kln",
+        "contact": "2396 3511"
+    },
+    {
+        "name": "亞太動物醫院 / Asia-Pacific Animal Hospital",
+        "district": "深水埗區 Sham Shui Po District",
+        "address": "九龍深水埗大南街 79 號地下 / G/F, 79 Tai Nam Street, Sham Shui Po, Kln",
+        "contact": "2898 7122"
+    },
+    {
+        "name": "美孚獸醫醫院 / Mei Foo Veterinary Hospital",
+        "district": "深水埗區 Sham Shui Po District",
+        "address": "九龍美孚新村第五期蘭秀街7號B / Nassau St 7B,Mei Foo Sun Chuen Tower 5, Mei Foo, Kln",
+        "contact": "2743 8885 / 2743 9885 / 2417 0993"
+    },
+    {
+        "name": "太子動物醫療診所 / Prince Animal Clinic",
+        "district": "深水埗區 Sham Shui Po District",
+        "address": "九龍太子荔枝角道75號地下 / G/F, 75 Lai Chi Kok Road, Prince Edward, Kln",
+        "contact": "2380 8408"
+    },
+    {
+        "name": "非牟利獸醫診所 / (NPV) Non-Profit Making Veterinary Clinic",
+        "district": "深水埗區 Sham Shui Po District",
+        "address": "九龍太子基隆街24, 29, 79號地下 / G/F, 24, 29 and 79 Ki Lung Street, Prince Edward, Kln",
+        "contact": "2393 2070"
+    },
+    {
+        "name": "九龍貓醫院 / Kowloon Cat Hospital",
+        "district": "油尖旺區 Yau Tsim Mong District",
+        "address": "九龍砵蘭街430號利聯大廈地下 / G/F Lee Luen Mansion, 430 Portland St. Kln",
+        "contact": "2309 2011"
+    },
+    {
+        "name": "綠十字寵物診所 / Green Cross Veterinary Clinics",
+        "district": "油尖旺區 Yau Tsim Mong District",
+        "address": "九龍旺角窩打老道37地下 / G/F, 37 Waterloo Road, Mong Kok, Kln",
+        "contact": "2780 5338"
+    },
+    {
+        "name": "麥花臣動物診所 / Macpherson Animal Clinic",
+        "district": "油尖旺區 Yau Tsim Mong District",
+        "address": "九龍旺角洗衣街26號興業樓地下 / G/F, Hing Yip House, 26 Sai Yee Street, Mong Kok, Kln",
+        "contact": "2781 2386"
+    },
+    {
+        "name": "安信獸醫診所 / Itrust Veterinary Clinic",
+        "district": "油尖旺區 Yau Tsim Mong District",
+        "address": "九龍旺角亞皆老街124號E怡安閣地下14號舖 / Shop 14, G/F, Yee On Court, 124E Argyle Street, Mong Kok, Kln",
+        "contact": "2323 4417"
+    },
+    {
+        "name": "旺角關愛非牟利動物診所 / Mongkok Great Love Non-profit Animal Clinic",
+        "district": "油尖旺區 Yau Tsim Mong District",
+        "address": "九龍旺角西洋菜北街177號地下 / G/F, 177 Sai Yeung Choi Street North, Mong Kok, Kln",
+        "contact": "2399 7783"
+    },
+    {
+        "name": "Pets Central 旺角動物醫院/ Pets Central Mong Kok Hospital",
+        "district": "油尖旺區 Yau Tsim Mong District",
+        "address": "九龍旺角上海街484至488號順明大廈 1樓 和 2樓 / 1/F and 2/F, Sun Ming Building, 484- 488 Shanghai Street, Mong Kok, Kln",
+        "contact": "2309 2139"
+    },
+    {
+        "name": "CAU獸醫診所 / CAU Animal Clinic",
+        "district": "油尖旺區 Yau Tsim Mong District",
+        "address": "九龍太子西洋菜北街213A號地下 / G/F, 213A Sai Yeung Choi Street North, Princed Edward, Kln",
+        "contact": "2777 2878"
+    },
+    {
+        "name": "天心寵物醫院 / Angel Heart Veterinary Hospital",
+        "district": "油尖旺區 Yau Tsim Mong District",
+        "address": "九龍尖沙咀松山道5-11號松山大廈11號地下 / G/F, No. 11 Pine Tree Building, 5-11 Pine Tree Hill Road, Tsim Sha Tsui, Kln",
+        "contact": "2813 7128"
+    },
+    {
+        "name": "毛國界動物醫院 / Any.Mo Veterinary Hospital",
+        "district": "油尖旺區 Yau Tsim Mong District",
+        "address": "九龍大角咀鐵樹街地下21號舖 / Shop No. 21, G/F, Tit Shu Street, Tai Kok Tsui, Kln",
+        "contact": "2142 3399"
+    },
+    {
+        "name": "繽紛寵物診所 / Joy n Fun Veterinary Clinic",
+        "district": "油尖旺區 Yau Tsim Mong District",
+        "address": "九龍大角咀中匯街15號中和樓地下 / G/F, Chung Wo Building, 15 Chung Wui Street, Tai Kok Tsui, Kln",
+        "contact": "2787 2338"
+    },
+    {
+        "name": "大角咀獸醫診所 / Tai Kok Tsui Veterinary Clinic",
+        "district": "油尖旺區 Yau Tsim Mong District",
+        "address": "九龍大角咀樂群街13號中原樓地下 / G/F, Chung Yuen Building, 13 Lok Kwan Street, Tai Kok Tsui, Kln",
+        "contact": "2314 7906"
+    },
+    {
+        "name": "恩典動物診所 / Amazing Grace Animal Care Ltd.",
+        "district": "油尖旺區 Yau Tsim Mong District",
+        "address": "九龍旺角勝利道11號建豐閣地下A鋪 / Shop A, G/F, Kin Fung Court, 11 Victory Avenue, Mong Kok, Kln",
+        "contact": "2711 8482"
+    },
+    {
+        "name": "勝利動物醫院 / Victory Animal Hospital",
+        "district": "油尖旺區 Yau Tsim Mong District",
+        "address": "九龍旺角窩打老道71B號松園大廈B座1樓 / Block B, 1/F, Chung Yuen Mansion, No. 71B Waterloo Road, Mongkok, Kln",
+        "contact": "2711 0332"
+    },
+    {
+        "name": "動物醫療中心 - 旺角 / Animal Medical Centre - Mong Kok",
+        "district": "油尖旺區 Yau Tsim Mong District",
+        "address": "九龍旺角勝利道16號D地下 / G/F, 16D Victory Avenue, Mong Kok, Kln",
+        "contact": "2713 4155"
+    },
+    {
+        "name": "加多利動物醫院 / Kadoorie Animal Hospital",
+        "district": "油尖旺區 Yau Tsim Mong District",
+        "address": "九龍旺角梭椏道23號B地下 / G/F, 23B Soares Avenue, Ho Man Tin, Kln",
+        "contact": "2762 9700"
+    },
+    {
+        "name": "Vet Path Asia Laboratory",
+        "district": "觀塘區 Kwun Tong District",
+        "address": "九龍觀塘偉業街146號美嘉工業大厦8樓D12室 / Unit D12, 8/F, Mai Gar Industrial Building, 146 Wai Yip Street, Kwun Tong, Kln",
+        "contact": "2625 1530"
+    },
+    {
+        "name": "東九龍動物醫院 / Kowloon East Animal Hospital",
+        "district": "觀塘區 Kwun Tong District",
+        "address": "九龍觀塘通明街50號康寧大廈地下 / G/F, 50, Tung Ming Street, Hong Ning Building , Kwun Tong, Kln",
+        "contact": "2345 6504"
+    },
+    {
+        "name": "街坊獸醫診所 / Neighbor Animal Clinic",
+        "district": "觀塘區 Kwun Tong District",
+        "address": "九龍觀塘瑞和街150號地下 / G/F, 150 Shui Wo Street, Kwun Tong, Kln",
+        "contact": "2191 8993"
+    },
+    {
+        "name": "置樂動物診所有限公司 / Chandler Animal Clinic",
+        "district": "屯門區 Tuen Mun District",
+        "address": "香港新界屯門德政圍18號海盛大廈地下3號舖 / Shop 3, G/F, Hoi Shing Building, 18 Tak Ching Court, Tuen Mun, New Territories, HK",
+        "contact": "2459 7217"
+    },
+    {
+        "name": "康和動物醫療中心 / Concord Animal Medical Centre",
+        "district": "屯門區 Tuen Mun District",
+        "address": "香港新界屯門青海圍8號屯景大廈地下E1鋪 / E1, Tuen King Building, No. 8 Tsing Hoi Circuit, Tuen Mun, New Territories, HK",
+        "contact": "2640 8138"
+    },
+    {
+        "name": "彩虹獸醫診所 / Rainbow Veterinary Clinic",
+        "district": "屯門區 Tuen Mun District",
+        "address": "香港新界屯門青山公路良田村58號地下 / G/F, No. 58 Leung Tin Chuen, Area 36B, Tuen Mun, New Territories, HK",
+        "contact": "2430 9581"
+    },
+    {
+        "name": "柏德獸醫診所 / Castle Peak Pet Clinic",
+        "district": "屯門區 Tuen Mun District",
+        "address": "香港新界屯門青山公路385號置樂花園嘉喜利大廈地鋪12號 / Shop 12, Kei Hei Land Building, 385 Castle Peak Road, Tuen Mun, New Territories,",
+        "contact": "2404 2511"
+    },
+    {
+        "name": "東方獸醫診所 (屯門) / Oriental Veterinary Clinic (Tuen Mun)",
+        "district": "屯門區 Tuen Mun District",
+        "address": "香港新界屯門中央廣場海榮路22號18樓1808室 / 1808, 18/F, Tuen Mun Central Square, No.22 Hoi Wing Road, Tuen Mun, New Territories, HK",
+        "contact": "3709 6092"
+    },
+    {
+        "name": "SAA伍威權動物醫療中心 / SAA Albert Wu Veterinary Centre",
+        "district": "元朗區 Yuen Long District",
+        "address": "香港新界元朗安樂路 35-47 號利群樓地下 / G/F, Lee Kwan Building, No. 35-47 On Lok Road, Yuen Long, New Territories, HK",
+        "contact": "2475 2231"
+    },
+    {
+        "name": "小米獸醫診所 / Rurumi Veterinary Clinic",
+        "district": "元朗區 Yuen Long District",
+        "address": "新界元朗錦綉花園大道20號地下A舖 / Shop A, G/F, 20 Fairview Park Boulevard, Yuen Long, New Territories, HK",
+        "contact": "2366 2600"
+    },
+    {
+        "name": "Pets Central 流動診所 / Pets Central Mobile Clinic",
+        "district": "元朗區 Yuen Long District",
+        "address": "香港新界元朗錦綉花園 / Fairview Park, Yuen Long, New Territories, HK",
+        "contact": "6223 0903"
+    },
+    {
+        "name": "愛護動物協會 (元朗錦綉中心) / SPCA (Yuen Long Fairview Park Centre)",
+        "district": "元朗區 Yuen Long District",
+        "address": "香港新界元朗錦綉花園大道 LOT3250 B8A DD104 / G/F, DD104, LOT3250, B8A, Fairview Park Boulevard, Yuen Long, New Territories, HK",
+        "contact": "2482 2770"
+    },
+    {
+        "name": "專一動物診所 / The AIM Animal Clinic",
+        "district": "元朗區 Yuen Long District",
+        "address": "香港新界元朗鳳翔路69號建輝大廈地下19號舖 / G/F, Shop 19, Kin Fai Building, 69 Fung Cheung Road, Yuen Long, New Territories, HK",
+        "contact": "2470 6683"
+    },
+    {
+        "name": "優活動物診所 / Best Life Animal Hospital",
+        "district": "元朗區 Yuen Long District",
+        "address": "新界元朗鳳攸北街昌威大廈26-27號地下 / G/F, 26-27 Cheong Wai Building, Fung Yau Street North, New Territories, HK",
+        "contact": "2474 7680"
+    },
+    {
+        "name": "木森林動物整全療法中心 / Goodwoods Holistic Veterinary Clinic Limited",
+        "district": "元朗區 Yuen Long District",
+        "address": "新界元朗鳳攸北街11-15號益發大廈地下19-20號舖 / Shop 19 & 20, G/F, Yik Fat Building, 11-15 Fung Yau Street North, Yuen Long, New",
+        "contact": "2656 6933 / 2656 6221"
+    },
+    {
+        "name": "新太陽動物醫務所 / New Sun Veterinary Clinic Ltd",
+        "district": "元朗區 Yuen Long District",
+        "address": "香港新界元朗鳳攸北街 9號A昌威大廈地下2號鋪 / Shop 2, G/F, Cheong Wai Mansion, 9A Fung Yau North Street, Yuen Long, New Territories, HK",
+        "contact": "2475 8802"
+    },
+    {
+        "name": "卡素拿動物醫院 / Casula Veterinary Hospital",
+        "district": "元朗區 Yuen Long District",
+        "address": "香港新界元朗教育路87-99號鴻發大廈地下G-H鋪 / Shop G-H, G/F, Hung Fat House, 87-99 Kau Yuk Road, Yuen Long, New Territories, HK",
+        "contact": "2982 2181"
+    },
+    {
+        "name": "新界動物醫療中心 / Pet Pet Animal Medical Centre",
+        "district": "元朗區 Yuen Long District",
+        "address": "新界元朗馬田路50號朗景臺地下1, 3及4號舖 / Shop 1, 3 and 4, G/F, Crystal Park, 50 Ma Tin Road, Yuen Long, New Territories, HK",
+        "contact": "3708 8770"
+    },
+    {
+        "name": "錦綉動物診所 / Fairview Veterinary Clinic",
+        "district": "元朗區 Yuen Long District",
+        "address": "香港新界元朗馬田村201號 / 201 Ma Tin Tsuen, Yuen Long, New Territories, HK",
+        "contact": "2471 8980"
+    },
+    {
+        "name": "柏圖獸醫診所 / Patel Veterinary Clinic",
+        "district": "元朗區 Yuen Long District",
+        "address": "香港新界元朗泰豐街20-24號普利樓地下D 舖 / Shop D, G/F, Polly Mansion, 20-24 Tai Fung Street, Yuen Long, New Territories, HK",
+        "contact": "2443 9893"
+    },
+    {
+        "name": "博愛動物醫院 / Hospital of Dedication to Animals",
+        "district": "元朗區 Yuen Long District",
+        "address": "香港新界元朗泰衡街2號地下F舖 / Shop F, G/F, 2 Tai Hang Street, Yuen Long, New Territories, HK",
+        "contact": "2476 2988"
+    },
+    {
+        "name": "洪水橋動物診所 / HSK Animal Clinic",
+        "district": "元朗區 Yuen Long District",
+        "address": "新界元朗洪水橋大街1號德祥樓地下13號舖 / Shop 13, G/F, Tak Cheung Building, 1 Hung Shui Kiu Main Street, Yuen Long, New Territories, HK",
+        "contact": "2420 0728"
+    },
+    {
+        "name": "元朗仁愛獸醫診所 / PetCore Veterinary Clinic",
+        "district": "元朗區 Yuen Long District",
+        "address": "香港新界元朗安寧路110-136A號好景樓地下12號鋪 / Shop 12, G/F, Ho King House, 110-136A On Ning Road, Yuen Long, New Territiories, HK",
+        "contact": "2394 7300"
+    },
+    {
+        "name": "維多利寵物診所 / Victoria Veterinary Clinic",
+        "district": "元朗區 Yuen Long District",
+        "address": "香港新界元朗民合徑8號興福大廈二期地下11鋪 / Shop 11, G/F Hing Fook Building, Phase II, 8 Man Hop Path, Yuen Long, New Territories, HK",
+        "contact": " 2477 8929"
+    },
+    {
+        "name": "康誠動物醫院 / Wellness Veterinary Hospital",
+        "district": "元朗區 Yuen Long District",
+        "address": "新界元朗大棠路41-59號金朗大廈地下5號鋪 / Shop 5, G/F, Kam Long Building, 41-59 Tai Tong Road, Yuen Long, NT",
+        "contact": "2572 2088"
+    },
+    {
+        "name": "元朗動物診所 / Johnny & Vivian Animal Clinic",
+        "district": "元朗區 Yuen Long District",
+        "address": "香港新界元朗又新街39號地下 / G/F, 39 Yau San Street, Yuen Long, New Territories, HK",
+        "contact": "2478 8733"
+    },
+    {
+        "name": "Exotics Hospital",
+        "district": "元朗區 Yuen Long District",
+        "address": "香港新界元朗屏會街25號福順樓地下2號舖 / Shop2, G/F., Fook Shun Building, 25 Ping Wui Street, Yuen Long, New Territories, HK",
+        "contact": "2477 9990 "
+    },
+    {
+        "name": "錦田動物醫院 / Pet Elements Animal Hospital",
+        "district": "元朗區 Yuen Long District",
+        "address": "香港新界元朗錦田錦田市108號地下 / G/F, 108, Kam Tin Shi, Kam Tin, New Territories, HK",
+        "contact": "2475 2851"
+    },
+    {
+        "name": "哈利波特獸醫診所 / Harry Potter Veterinary Clinic",
+        "district": "長洲 Cheung Chau",
+        "address": "長洲北社新村103號 / 103 Pak She San Tsuen, Cheung Chau",
+        "contact": "9807 3910"
+    },
+    {
+        "name": "愛護動物協會 (長洲中心) / SPCA (Cheung Chau Clinic)",
+        "district": "長洲 Cheung Chau",
+        "address": "長洲東灣 / Cheung Chau Clinic, Tung Wan, Cheung Chau",
+        "contact": "2981 4176"
+    },
+    {
+        "name": "Island Veterinary Services",
+        "district": "大嶼山 Lantau Island",
+        "address": "香港愉景灣愉景廣場B座地下G10舖 / Shop G10, G/F, Block B, DB Plaza, Discovery Bay, HK",
+        "contact": "2987 9003"
+    },
+    {
+        "name": "Tung Chung Animal Clinic Ltd",
+        "district": "大嶼山 Lantau Island",
+        "address": "香港東涌馬灣新村7號地下 / Shop 7, G/F, Ma Wan Village, Tung Chung, HK",
+        "contact": "2988 1534"
+    },
+    {
+        "name": "太陽動物醫務所 / Dr Sun Veterinary Clinic",
+        "district": "大嶼山 Lantau Island",
+        "address": "香港大嶼山梅窩麻布村31號 / No. 31, Ma Po Tsuen, Mui Wo, Lantau Island, HK",
+        "contact": "9855 7529"
+    },
+    {
+        "name": "愛護動物協會 (梅窩中心) / SPCA (Mui Wo Clinic)",
+        "district": "大嶼山 Lantau Island",
+        "address": "Island, HK",
+        "contact": "2984 0060"
+    },
+    {
+        "name": "貝澳獸醫診所 / Community Vet Clinic Limited",
+        "district": "大嶼山 Lantau Island",
+        "address": "to San Wai Village Office)",
+        "contact": "3486 6100"
+    },
+    {
+        "name": "Tung Chung Vet Centre",
+        "district": "大嶼山 Lantau Island",
+        "address": "Waterfront Road, Tung Chung, Lantau Island, HK",
+        "contact": "2328 7282"
+    },
+    {
+        "name": "享和珍禽異獸醫療中心 / Heung Wo Exotic Veterinary Centre",
+        "district": "荃灣區 Tsuen Wan District",
+        "address": "香港新界荃灣享和街84號地下 / G/F, 84 Heung Wo Street, Tsuen Wan, New Territories, HK",
+        "contact": "2493 2178 / 2493 2179"
+    },
+    {
+        "name": "Dr. George's 獸醫醫療中心 / Dr. George's Veterinary Medical Center",
+        "district": "荃灣區 Tsuen Wan District",
+        "address": "Wan, New Territories, HK",
+        "contact": "2498 8102 / 2498 8103"
+    },
+    {
+        "name": "Exotics Hospital",
+        "district": "荃灣區 Tsuen Wan District",
+        "address": "Wan, New Territories, HK",
+        "contact": "2623 5500"
+    },
+    {
+        "name": "荃灣獸醫寵物醫院 / Tsuen Wan VetnPet Hospital",
+        "district": "荃灣區 Tsuen Wan District",
+        "address": "香港新界荃灣沙咀道168號地下 / No.168 Sha Tsui Road, Tsuen Wan, New Territories, HK",
+        "contact": "2573 0028"
+    },
+    {
+        "name": "享和動物醫療中心 / Heung Wo Animal Medical Centre",
+        "district": "荃灣區 Tsuen Wan District",
+        "address": "香港新界荃灣沙咀道136至138號地下 / G/F, 136-138 Sha Tsui Road, Tsuen Wan, New Territories, HK",
+        "contact": "2490 3732"
+    },
+    {
+        "name": "葵興獸醫診所 / Kwai Hing Veterinary Clinic",
+        "district": "葵青區 Kwai Tsing District",
+        "address": "Kwai Hing, New Territories, HK",
+        "contact": "2792 2007"
+    },
+    {
+        "name": "珀麗灣獸醫診所 / Park Island Animal Clinic",
+        "district": "葵青區 Kwai Tsing District",
+        "address": "香港新界馬灣馬灣大街北322號地下 / G/F, 322 Ma Wan Main Street Village North, Ma Wan, New",
+        "contact": "6738 3280"
+    }
+]
